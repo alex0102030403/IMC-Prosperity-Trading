@@ -3,10 +3,12 @@ from datamodel import OrderDepth, TradingState, Order
 import pandas as pd
 
 # Constants
-MA_100POWER_BANANA = 40 / 100
-EMA_100POWER_BANANA = 60 / 100
-MA_100POWER_PEARLS = 65 / 100
-EMA_100POWER_PEARLS = 35 / 100
+MA_100POWER_BANANA = 90 / 100
+EMA_100POWER_BANANA = 10 / 100
+MA_50POWER_BANANA = 10 / 100
+EMA_25POWER_BANANA = 90 / 100
+MA_100POWER_PEARLS = 80 / 100
+EMA_100POWER_PEARLS = 20 / 100
 pearls_q = []
 bananas_q = []
 
@@ -15,6 +17,9 @@ last_pearl_price = 0
 pearls_EMA_yesterday = 0
 banana_EMA_yesterday = 0
 
+# TODO activate pearls, get own trades, calculate sold,
+# TODO try buying at the fair price instead of the best price and qt to be relative to the max sold,
+# TODO instead of mixing MA and ema in the same fair price create 2 different orders
 class Trader:
     def run(self, state: TradingState) -> Dict[str, List[Order]]:
         """
@@ -26,10 +31,11 @@ class Trader:
         # Iterate over all the keys (the available products) contained in the order dephts
         for product in state.order_depths.keys():
             # Check if the current product is the 'PEARLS' product, only then run the order logic
-            if product == 'PEARLS':
+            if product == 'NOTPEARLS':
                 global pearls_EMA_yesterday
                 # Retrieve the Order Depth containing all the market BUY and SELL orders for PEARLS
                 order_depth: OrderDepth = state.order_depths[product]
+
                 # Initialize the list of Orders to be sent as an empty list
                 orders: list[Order] = []
                 global last_pearl_price
@@ -73,7 +79,7 @@ class Trader:
                         # with the same quantity
                         # We expect this order to trade with the sell order
                         print("BUY", str(acceptable_price - best_ask) + "x", best_ask)
-                        orders.append(Order(product, best_ask, -best_ask_volume))
+                        orders.append(Order(product, best_ask, (acceptable_price - best_ask)))
 
                 # The below code block is similar to the one above,
                 # the difference is that it find the highest bid (buy order)
@@ -84,7 +90,7 @@ class Trader:
                     best_bid_volume = order_depth.buy_orders[best_bid]
                     if best_bid > acceptable_price:
                         print("SELL", str(acceptable_price - best_bid) + "x", best_bid)
-                        orders.append(Order(product, best_bid, -best_bid_volume))
+                        orders.append(Order(product, best_bid, -(acceptable_price - best_bid)))
 
                 # Add all the above the orders to the result dict
                 result[product] = orders
@@ -93,6 +99,9 @@ class Trader:
             if product == 'BANANAS':
                 # Retrieve the Order Depth containing all the market BUY and SELL orders for PEARLS
                 order_depth: OrderDepth = state.order_depths[product]
+                own_trades = state.own_trades
+                print(type(own_trades))
+                print(own_trades)
                 # Initialize the list of Orders to be sent as an empty list
                 orders: list[Order] = []
                 global last_banana_price
@@ -110,19 +119,20 @@ class Trader:
                     bananas_q.pop()
 
                 average = 0
-                for val in bananas_q:
+                last50 = bananas_q[-50:]
+                for val in last50:
                     average += val
-                average /= len(bananas_q)
+                average /= len(last50)
 
                 close_today = mid_price
-                n = 35
+                n = 25
                 average_ema = (close_today * (2 / (n + 1))) + (banana_EMA_yesterday * (1 - (2 / (n + 1))))
                 banana_EMA_yesterday = average_ema
                 print("ema is: ", average_ema)
 
                 # Define a fair value for the BANANA.
-                acceptable_price = average * MA_100POWER_BANANA + average_ema * EMA_100POWER_BANANA
-                print("average is: ", acceptable_price)
+                acceptable_price = average * MA_50POWER_BANANA + average_ema * EMA_25POWER_BANANA
+                print("acceptable_price is: ", acceptable_price)
                 # If statement checks if there are any SELL orders in the PEARLS market
                 if len(order_depth.sell_orders) > 0:
                     # Sort all the available sell orders by their price,
@@ -136,7 +146,7 @@ class Trader:
                         # with the same quantity
                         # We expect this order to trade with the sell order
                         print("BUY", str(acceptable_price - best_ask) + "x", best_ask)
-                        orders.append(Order(product, best_ask, -best_ask_volume))
+                        orders.append(Order(product, best_ask, (acceptable_price - best_ask)))
 
                 # The below code block is similar to the one above,
                 # the difference is that it find the highest bid (buy order)
@@ -147,7 +157,7 @@ class Trader:
                     best_bid_volume = order_depth.buy_orders[best_bid]
                     if best_bid > acceptable_price:
                         print("SELL", str(acceptable_price - best_bid) + "x", best_bid)
-                        orders.append(Order(product, best_bid, -best_bid_volume))
+                        orders.append(Order(product, best_bid, -(acceptable_price - best_bid)))
 
                 # Add all the above the orders to the result dict
                 result[product] = orders
