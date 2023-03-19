@@ -1,0 +1,4683 @@
+Sandbox logs:
+0 OpenBLAS WARNING - could not determine the L2 cache size on this system, assuming 256k
+START RequestId: a0f389aa-cad3-480d-a6e1-c2fe6332e48d Version: $LATEST
+midPrice:  4949.0
+average is:  4949.0
+Highest Pearl 
+9998
+Lowest Pearl
+10005
+midPrice:  10001.5
+average is:  10001.5
+END RequestId: a0f389aa-cad3-480d-a6e1-c2fe6332e48d
+REPORT RequestId: a0f389aa-cad3-480d-a6e1-c2fe6332e48d	Duration: 11.86 ms	Billed Duration: 12 ms	Memory Size: 128 MB	Max Memory Used: 93 MB	Init Duration: 1637.18 ms	
+
+100 midPrice:  4947.5
+average is:  4948.25
+Highest Pearl 
+9998
+Lowest Pearl
+10002
+midPrice:  9999.0
+average is:  10000.25
+200 midPrice:  4948.0
+average is:  4948.166666666667
+Highest Pearl 
+9998
+Lowest Pearl
+10002
+midPrice:  10000.0
+average is:  10000.166666666666
+300 midPrice:  4948.5
+average is:  4948.25
+Highest Pearl 
+9998
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  9999.375
+BUY 1.375x 9998
+400 midPrice:  4949.0
+average is:  4948.4
+Highest Pearl 
+9998
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  9999.7
+600 midPrice:  4948.0
+average is:  4948.357142857143
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10000.07142857143
+700 midPrice:  4949.0
+average is:  4948.4375
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10000.25
+800 midPrice:  4947.5
+average is:  4948.333333333333
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10000.222222222223
+900 midPrice:  4947.0
+average is:  4948.522678910343
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10000.2
+1000 midPrice:  4947.0
+average is:  4948.4055497633935
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10000.181818181818
+1100 midPrice:  4947.0
+average is:  4948.297430550825
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10000.166666666666
+1200 midPrice:  4948.0
+average is:  4948.2745512776855
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10000.23076923077
+1300 midPrice:  4945.0
+average is:  4948.022662717864
+BUY 2.022662717863568x 4946
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10000.214285714286
+1400 midPrice:  4948.0
+average is:  4948.020919431874
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10000.2
+2000 midPrice:  4947.0
+average is:  4947.977215607428
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10000.809523809523
+2100 midPrice:  4948.5
+average is:  4948.017429791473
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10000.772727272728
+2200 midPrice:  4948.5
+average is:  4948.054550576744
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10000.739130434782
+2300 midPrice:  4949.0
+average is:  4948.127277455456
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10000.708333333334
+2400 midPrice:  4952.0
+average is:  4948.425179189652
+SELL -2.5748208103477737x 4951
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10000.72
+2500 midPrice:  4947.5
+average is:  4948.354011559679
+BUY 0.35401155967883824x 4948
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10000.692307692309
+2600 midPrice:  4949.5
+average is:  4948.442164516628
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10000.666666666666
+2700 midPrice:  4950.0
+average is:  4948.561998015349
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10000.67857142857
+2800 midPrice:  4952.5
+average is:  4948.864921244937
+SELL -3.13507875506275x 4952
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10000.706896551725
+3500 midPrice:  4949.0
+average is:  4949.028282229902
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.041666666666
+3600 midPrice:  4950.5
+average is:  4949.1414912891405
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10000.918918918918
+BUY 2.91891891891828x 9998
+3700 midPrice:  4949.5
+average is:  4949.169068882284
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.0
+average is:  10000.842105263158
+BUY 0.8421052631583734x 10000
+5400 midPrice:  4947.5
+average is:  4949.277964618592
+BUY 1.2779646185917954x 4948
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.454545454546
+5500 midPrice:  4950.5
+average is:  4949.371967340239
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.42857142857
+6000 midPrice:  4951.5
+average is:  4949.990069506311
+SELL -0.00993049368935317x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10002.0
+average is:  10001.540983606557
+6100 midPrice:  4949.5
+average is:  4949.9523718519795
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.0
+average is:  10001.483870967742
+BUY 1.483870967742405x 10000
+6200 midPrice:  4947.5
+average is:  4949.763727863366
+BUY 1.7637278633656024x 4948
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.460317460318
+6300 midPrice:  4947.5
+average is:  4949.589594950799
+BUY 1.5895949507994374x 4948
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.4375
+6400 midPrice:  4950.5
+average is:  4949.6596261084305
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10002.5
+average is:  10001.453846153847
+6500 midPrice:  4950.5
+average is:  4949.724270253936
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.431818181818
+6600 midPrice:  4951.5
+average is:  4949.8608648497875
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.410447761195
+7300 midPrice:  4951.5
+average is:  4950.89377171275
+SELL -0.1062282872499054x 4951
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10002.0
+average is:  10001.547297297297
+7900 midPrice:  4948.5
+average is:  4950.642349538572
+BUY 0.6423495385715796x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.60625
+8000 midPrice:  4948.5
+average is:  4950.47755342022
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.586419753086
+8100 midPrice:  4948.5
+average is:  4950.325433926357
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.567073170732
+8200 midPrice:  4949.5
+average is:  4950.261939008945
+BUY 0.2619390089448643x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.506024096385
+BUY 3.506024096384863x 9998
+8800 midPrice:  4948.5
+average is:  4949.714281254901
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.539325842698
+BUY 3.539325842697508x 9998
+9000 midPrice:  4947.5
+average is:  4949.457730773407
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.527472527472
+9100 midPrice:  4947.5
+average is:  4949.30713609853
+BUY 0.30713609852955415x 4949
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.510869565218
+9200 midPrice:  4947.5
+average is:  4949.168125629412
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.478494623656
+9300 midPrice:  4948.5
+average is:  4949.1167313502265
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.462765957447
+9400 midPrice:  4949.0
+average is:  4949.107752015594
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.447368421053
+9500 midPrice:  4949.0
+average is:  4949.09946339901
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.442708333334
+9600 midPrice:  4945.5
+average is:  4948.822581599087
+BUY 2.8225815990872434x 4946
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.427835051547
+9700 midPrice:  4949.0
+average is:  4948.836229168389
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.42857142857
+9800 midPrice:  4947.5
+average is:  4948.7334423092825
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.39898989899
+9900 midPrice:  4948.5
+average is:  4948.71548520857
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+10000 midPrice:  4949.0
+average is:  4948.737370961757
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+10100 midPrice:  4948.5
+average is:  4948.719111657007
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+10200 midPrice:  4949.0
+average is:  4948.740718452622
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+10300 midPrice:  4946.5
+average is:  4948.568355494728
+BUY 1.5683554947281664x 4947
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+10400 midPrice:  4949.5
+average is:  4948.640020456673
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+10500 midPrice:  4949.0
+average is:  4948.667711190775
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+10600 midPrice:  4947.5
+average is:  4948.577887253023
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+10700 midPrice:  4949.0
+average is:  4948.610357464328
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+11100 midPrice:  4949.0
+average is:  4948.8786587437535
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+11400 midPrice:  4950.5
+average is:  4949.161958265457
+SELL -0.8380417345433671x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+11500 midPrice:  4948.0
+average is:  4949.072576860422
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+11600 midPrice:  4947.5
+average is:  4948.95160940962
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+11700 midPrice:  4947.5
+average is:  4948.839947147341
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+11800 midPrice:  4947.5
+average is:  4948.736874289853
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+11900 midPrice:  4947.5
+average is:  4948.641730113711
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+12000 midPrice:  4946.5
+average is:  4948.4769816434255
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+12100 midPrice:  4945.5
+average is:  4948.24798305547
+BUY 0.24798305547028576x 4948
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+12200 midPrice:  4947.0
+average is:  4948.151984358897
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+12300 midPrice:  4946.5
+average is:  4948.024908638982
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.0
+average is:  10001.385
+BUY 1.3850000000002183x 10000
+12400 midPrice:  4946.0
+average is:  4947.869146435984
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+13500 midPrice:  4947.5
+average is:  4946.929298078951
+SELL -0.07070192104856687x 4947
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+13600 midPrice:  4947.0
+average is:  4946.934736688264
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+13700 midPrice:  4948.0
+average is:  4947.016680019937
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+13800 midPrice:  4946.5
+average is:  4946.976935403019
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+13900 midPrice:  4944.5
+average is:  4946.786401910479
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+14000 midPrice:  4948.5
+average is:  4946.918217148135
+SELL -1.081782851864773x 4948
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+14100 midPrice:  4945.5
+average is:  4946.809123521356
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10002.0
+average is:  10001.385
+14200 midPrice:  4945.5
+average is:  4946.708421712022
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+14300 midPrice:  4946.0
+average is:  4946.6539277341735
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+14400 midPrice:  4946.0
+average is:  4946.603625600776
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+14500 midPrice:  4946.0
+average is:  4946.557192862254
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.0
+average is:  10001.385
+BUY 1.3850000000002183x 10000
+14600 midPrice:  4944.5
+average is:  4946.398947257466
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+14700 midPrice:  4946.0
+average is:  4946.368259006891
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+14800 midPrice:  4946.0
+average is:  4946.339931390977
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+14900 midPrice:  4945.0
+average is:  4946.236859745517
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+15000 midPrice:  4942.5
+average is:  4945.949408995862
+BUY 2.9494089958616314x 4943
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+15200 midPrice:  4948.5
+average is:  4946.32671535742
+SELL -1.6732846425802563x 4948
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+BUY 1.3850000000002183x 10000
+15300 midPrice:  4946.0
+average is:  4946.301583406849
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+15400 midPrice:  4944.5
+average is:  4946.1630000678615
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+15500 midPrice:  4948.5
+average is:  4946.342769293411
+SELL -1.6572307065889618x 4948
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+15600 midPrice:  4946.5
+average is:  4946.354863963149
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+15700 midPrice:  4947.0
+average is:  4946.404489812138
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+15800 midPrice:  4947.5
+average is:  4946.48875982659
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+15900 midPrice:  4948.0
+average is:  4946.6050090706985
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+16000 midPrice:  4947.5
+average is:  4946.673854526799
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+16100 midPrice:  4948.0
+average is:  4946.775865717045
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+16200 midPrice:  4944.5
+average is:  4946.600799123427
+BUY 1.6007991234273504x 4945
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+16300 midPrice:  4946.5
+average is:  4946.593045344703
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+16400 midPrice:  4948.0
+average is:  4946.70127262588
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+16500 midPrice:  4948.0
+average is:  4946.801174731582
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+16600 midPrice:  4948.0
+average is:  4946.893392059923
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+16800 midPrice:  4944.5
+average is:  4946.539339980054
+BUY 1.5393399800541374x 4945
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+16900 midPrice:  4947.5
+average is:  4946.613236904665
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+17000 midPrice:  4947.5
+average is:  4946.681449450461
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+17100 midPrice:  4948.0
+average is:  4946.78287641581
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+17200 midPrice:  4948.5
+average is:  4946.914962845363
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+17300 midPrice:  4946.0
+average is:  4946.844581088028
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+17400 midPrice:  4949.0
+average is:  4947.010382542795
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+17500 midPrice:  4952.0
+average is:  4947.394199270273
+SELL -3.6058007297269796x 4951
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+17600 midPrice:  4948.5
+average is:  4947.479260864868
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+17700 midPrice:  4948.0
+average is:  4947.519317721417
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+17800 midPrice:  4947.5
+average is:  4947.517831742846
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+17900 midPrice:  4948.0
+average is:  4947.554921608782
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+18000 midPrice:  4948.0
+average is:  4947.589158408107
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+18100 midPrice:  4948.5
+average is:  4947.659223145945
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+18200 midPrice:  4951.0
+average is:  4947.916205980873
+SELL -2.083794019126799x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+18300 midPrice:  4947.5
+average is:  4947.884190136191
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+18400 midPrice:  4948.0
+average is:  4947.893098587254
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+18500 midPrice:  4948.5
+average is:  4947.939783311311
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+18600 midPrice:  4947.5
+average is:  4947.905953825825
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+19100 midPrice:  4947.5
+average is:  4947.8630079274
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.0
+average is:  10001.385
+BUY 1.3850000000002183x 10000
+19200 midPrice:  4947.5
+average is:  4947.835084240677
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+19300 midPrice:  4948.5
+average is:  4947.886231606779
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+19400 midPrice:  4948.5
+average is:  4947.933444560103
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+19500 midPrice:  4949.0
+average is:  4948.0154872862495
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+19600 midPrice:  4949.0
+average is:  4948.091219033461
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+19700 midPrice:  4948.5
+average is:  4948.122663723196
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+20000 midPrice:  4948.5
+average is:  4948.30426168124
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+20100 midPrice:  4949.5
+average is:  4948.3962415519145
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+20200 midPrice:  4949.5
+average is:  4948.481146047921
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+20300 midPrice:  4949.0
+average is:  4948.521057890389
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+20400 midPrice:  4949.5
+average is:  4948.59636112959
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+20500 midPrice:  4949.5
+average is:  4948.66587181193
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+20600 midPrice:  4950.0
+average is:  4948.768497057166
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+20700 midPrice:  4947.5
+average is:  4948.670920360461
+BUY 0.6709203604614231x 4948
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+20800 midPrice:  4953.5
+average is:  4949.042388025042
+SELL -3.9576119749581267x 4953
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+20900 midPrice:  4950.5
+average is:  4949.154512023116
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+21000 midPrice:  4948.5
+average is:  4949.104164944414
+BUY 0.10416494441415125x 4949
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+21100 midPrice:  4952.0
+average is:  4949.326921487152
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+21200 midPrice:  4950.5
+average is:  4949.417158295832
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+21300 midPrice:  4947.5
+average is:  4949.269684580769
+BUY 1.269684580768626x 4948
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+21400 midPrice:  4951.5
+average is:  4949.441247305325
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+21500 midPrice:  4953.0
+average is:  4949.7149975126085
+SELL -2.2850024873914663x 4952
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+21700 midPrice:  4951.5
+average is:  4950.085560010744
+SELL -0.9144399892556976x 4951
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+21800 midPrice:  4951.5
+average is:  4950.194363086841
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+21900 midPrice:  4951.0
+average is:  4950.256335157084
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+22000 midPrice:  4947.5
+average is:  4950.04430937577
+BUY 2.0443093757703537x 4948
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.0
+average is:  10001.385
+BUY 1.3850000000002183x 10000
+22100 midPrice:  4951.0
+average is:  4950.117824039174
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+22200 midPrice:  4950.5
+average is:  4950.147222190007
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+22300 midPrice:  4951.5
+average is:  4950.251282021545
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+22600 midPrice:  4950.5
+average is:  4950.440926414762
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+22700 midPrice:  4951.5
+average is:  4950.522393613626
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+22800 midPrice:  4951.0
+average is:  4950.5591325664245
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+22900 midPrice:  4951.0
+average is:  4950.593045445931
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+23000 midPrice:  4952.0
+average is:  4950.701272719321
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+23100 midPrice:  4950.5
+average is:  4950.685790202451
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+23200 midPrice:  4950.5
+average is:  4950.671498648417
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+23300 midPrice:  4950.5
+average is:  4950.658306444692
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+23400 midPrice:  4951.5
+average is:  4950.723052102793
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+23500 midPrice:  4952.0
+average is:  4950.821278864118
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+23600 midPrice:  4952.5
+average is:  4950.950411259186
+SELL -1.0495887408142153x 4952
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+23700 midPrice:  4950.5
+average is:  4950.915764239248
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+23800 midPrice:  4951.0
+average is:  4950.922243913153
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+23900 midPrice:  4953.5
+average is:  4951.1205328429105
+SELL -1.8794671570894934x 4953
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+24000 midPrice:  4949.0
+average is:  4950.957414931918
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+24100 midPrice:  4949.5
+average is:  4950.8453060910015
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+24200 midPrice:  4951.5
+average is:  4950.895667160925
+SELL -0.10433283907514124x 4951
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+24500 midPrice:  4949.5
+average is:  4950.3929052590265
+BUY 0.39290525902652007x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+24600 midPrice:  4948.0
+average is:  4950.208835623717
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+24700 midPrice:  4948.0
+average is:  4950.038925191124
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+24800 midPrice:  4948.0
+average is:  4949.882084791807
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+24900 midPrice:  4948.0
+average is:  4949.737309038592
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+25000 midPrice:  4946.5
+average is:  4949.488285266392
+BUY 0.48828526639226766x 4949
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+25100 midPrice:  4948.0
+average is:  4949.3738017843625
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+25200 midPrice:  4947.5
+average is:  4949.229663185565
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+25300 midPrice:  4946.0
+average is:  4948.981227555906
+BUY 0.9812275559061163x 4948
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+25400 midPrice:  4948.0
+average is:  4948.905748513144
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+25500 midPrice:  4948.5
+average is:  4948.874537089057
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+25600 midPrice:  4950.5
+average is:  4948.999572697592
+SELL -1.000427302407843x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+25700 midPrice:  4948.0
+average is:  4948.922682490085
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+25800 midPrice:  4948.0
+average is:  4948.851706913925
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+25900 midPrice:  4947.5
+average is:  4948.747729459008
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+26000 midPrice:  4947.0
+average is:  4948.6132887313925
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+26100 midPrice:  4947.5
+average is:  4948.52765113667
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+26200 midPrice:  4948.5
+average is:  4948.525524126157
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+26300 midPrice:  4948.5
+average is:  4948.523560731837
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+26500 midPrice:  4947.0
+average is:  4948.404690801092
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+26700 midPrice:  4949.0
+average is:  4948.492754292055
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+BUY 1.3850000000002183x 10000
+26800 midPrice:  4948.5
+average is:  4948.493311654205
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+26900 midPrice:  4947.5
+average is:  4948.41690306542
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+27000 midPrice:  4947.5
+average is:  4948.346372060388
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+27100 midPrice:  4947.5
+average is:  4948.281266517281
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+27200 midPrice:  4951.0
+average is:  4948.490399862107
+SELL -1.509600137893358x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+27300 midPrice:  4949.0
+average is:  4948.529599872714
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10002.0
+average is:  10001.385
+27400 midPrice:  4949.0
+average is:  4948.5657844978905
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+27500 midPrice:  4946.0
+average is:  4948.368416459592
+BUY 1.3684164595915718x 4947
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+27600 midPrice:  4948.5
+average is:  4948.378538270392
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+27700 midPrice:  4949.0
+average is:  4948.426343018823
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+27800 midPrice:  4950.0
+average is:  4948.547393555837
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+27900 midPrice:  4950.0
+average is:  4948.65913251308
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+28000 midPrice:  4948.5
+average is:  4948.646891550536
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+28100 midPrice:  4948.5
+average is:  4948.635592200495
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+28200 midPrice:  4949.0
+average is:  4948.663623569688
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+28300 midPrice:  4948.5
+average is:  4948.651037141251
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+28400 midPrice:  4949.0
+average is:  4948.677880438078
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+28500 midPrice:  4953.0
+average is:  4949.010351173611
+SELL -2.9896488263893843x 4952
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+28600 midPrice:  4951.5
+average is:  4949.201862621794
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+28700 midPrice:  4951.5
+average is:  4949.378642420118
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+28800 midPrice:  4952.0
+average is:  4949.580285310879
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+28900 midPrice:  4952.5
+average is:  4949.804878748503
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+29000 midPrice:  4952.5
+average is:  4950.012195767849
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+29100 midPrice:  4953.5
+average is:  4950.280488401092
+SELL -0.7195115989079568x 4951
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+29200 midPrice:  4952.5
+average is:  4950.451220062547
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+29300 midPrice:  4953.0
+average is:  4950.647280057736
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+29400 midPrice:  4955.0
+average is:  4950.982104668679
+SELL -3.0178953313206875x 4954
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+29600 midPrice:  4952.5
+average is:  4951.206645398165
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+29700 midPrice:  4953.0
+average is:  4951.344595752153
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+29800 midPrice:  4953.0
+average is:  4951.471934540449
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+29900 midPrice:  4953.0
+average is:  4951.589478037338
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+BUY 1.3850000000002183x 10000
+30000 midPrice:  4952.5
+average is:  4951.659518188312
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+30100 midPrice:  4952.5
+average is:  4951.724170635365
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.5
+average is:  10001.385
+BUY 1.3850000000002183x 10000
+30200 midPrice:  4950.5
+average is:  4951.630003663415
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+30300 midPrice:  4951.0
+average is:  4951.581541843153
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+30400 
+30500 midPrice:  4951.0
+average is:  4951.53101790186
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+30600 midPrice:  4951.5
+average is:  4951.528631909409
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+30700 midPrice:  4954.0
+average is:  4951.718737147147
+SELL -1.2812628528527057x 4953
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+30800 midPrice:  4951.5
+average is:  4951.701911212752
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+30900 midPrice:  4952.5
+average is:  4951.763302657925
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+31000 midPrice:  4953.0
+average is:  4951.8584332227
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+31100 midPrice:  4953.0
+average is:  4951.946246051723
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+31200 midPrice:  4953.0
+average is:  4952.027304047745
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+31300 midPrice:  4953.5
+average is:  4952.1405883517655
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+31400 midPrice:  4954.0
+average is:  4952.283620017014
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+31500 midPrice:  4954.5
+average is:  4952.454110784936
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+31600 midPrice:  4955.0
+average is:  4952.649948416865
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+31700 midPrice:  4953.5
+average is:  4952.715337000184
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+31800 midPrice:  4953.5
+average is:  4952.775695692479
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+31900 midPrice:  4954.5
+average is:  4952.908334485365
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+32000 midPrice:  4954.0
+average is:  4952.992308755722
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.0
+average is:  10001.385
+BUY 1.3850000000002183x 10000
+32100 midPrice:  4954.0
+average is:  4953.06982346682
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+32200 midPrice:  4953.5
+average is:  4953.102913969373
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+32300 midPrice:  4952.5
+average is:  4953.056535971728
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+32338 Lambda errors have reached maximum value for submission 89eab87d-8a0b-4823-a216-783c676bb9ef
+32400 midPrice:  4950.5
+average is:  4952.859879358519
+BUY 1.8598793585188105x 4951
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+32500 midPrice:  4956.0
+average is:  4953.101427100171
+SELL -1.8985728998286504x 4955
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+32600 midPrice:  4953.5
+average is:  4953.132086554005
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+32900 midPrice:  4952.0
+average is:  4953.026966575022
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+33200 midPrice:  4951.0
+average is:  4952.763585908803
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+33300 midPrice:  4951.5
+average is:  4952.6663869927415
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+33400 midPrice:  4952.5
+average is:  4952.6535879933
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+33500 midPrice:  4953.0
+average is:  4952.6802350707385
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+33600 midPrice:  4949.5
+average is:  4952.435601603759
+BUY 2.435601603759096x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+33700 midPrice:  4952.5
+average is:  4952.440555326547
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+34500 midPrice:  4951.0
+average is:  4952.017178651156
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+34600 midPrice:  4951.5
+average is:  4951.977395677991
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+34700 midPrice:  4951.5
+average is:  4951.940672933531
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+35000 midPrice:  4950.0
+average is:  4951.493619858507
+BUY 0.49361985850737256x 4951
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+35100 midPrice:  4952.5
+average is:  4951.571033715545
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+35200 midPrice:  4949.5
+average is:  4951.411723429735
+BUY 1.411723429734593x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+35300 midPrice:  4954.0
+average is:  4951.610821627447
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+35400 midPrice:  4953.5
+average is:  4951.756143040721
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+36100 midPrice:  4950.5
+average is:  4951.217305817057
+BUY 0.21730581705742225x 4951
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+36200 midPrice:  4952.5
+average is:  4951.31597460036
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+36300 midPrice:  4954.5
+average is:  4951.560899631102
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+36400 midPrice:  4952.5
+average is:  4951.6331381210175
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+36500 midPrice:  4953.0
+average is:  4951.738281342478
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+38000 midPrice:  4954.5
+average is:  4953.684483274774
+SELL -0.315516725226189x 4954
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+38100 midPrice:  4949.5
+average is:  4953.3625999459455
+BUY 3.362599945945476x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+38200 midPrice:  4953.0
+average is:  4953.334707642412
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+38300 midPrice:  4952.0
+average is:  4953.232037823765
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+39100 midPrice:  4952.0
+average is:  4952.563956123211
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+39200 midPrice:  4955.5
+average is:  4952.789805652195
+SELL -2.210194347804645x 4955
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+39300 midPrice:  4953.0
+average is:  4952.805974448181
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+39400 midPrice:  4953.0
+average is:  4952.820899490629
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+39500 midPrice:  4953.5
+average is:  4952.873137991351
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+39600 midPrice:  4952.5
+average is:  4952.844435068939
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+39700 midPrice:  4952.5
+average is:  4952.817940063635
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+39800 midPrice:  4951.5
+average is:  4952.7165600587405
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+39900 midPrice:  4953.0
+average is:  4952.738363131145
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+40000 midPrice:  4954.0
+average is:  4952.835412121057
+SELL -0.1645878789431663x 4953
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+40200 midPrice:  4951.5
+average is:  4952.708871866463
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+40300 midPrice:  4952.0
+average is:  4952.654343261351
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.0
+average is:  10001.385
+BUY 1.3850000000002183x 10000
+40400 midPrice:  4950.5
+average is:  4952.48862454894
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+40500 midPrice:  4949.5
+average is:  4952.258730352868
+BUY 1.2587303528680422x 4951
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+40600 midPrice:  4951.0
+average is:  4952.161904941109
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+40700 midPrice:  4951.5
+average is:  4952.110989176409
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+40800 midPrice:  4951.5
+average is:  4952.063990008993
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+40900 midPrice:  4951.5
+average is:  4952.0206061621475
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+41000 midPrice:  4950.0
+average is:  4951.865174918906
+BUY 0.8651749189057227x 4951
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+41100 midPrice:  4950.5
+average is:  4951.760161463606
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+41200 midPrice:  4950.5
+average is:  4951.663225966406
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+41300 midPrice:  4948.5
+average is:  4951.419900892068
+BUY 0.4199008920677443x 4951
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.0
+average is:  10001.385
+BUY 1.3850000000002183x 10000
+41400 midPrice:  4948.5
+average is:  4951.195293131139
+BUY 1.1952931311388966x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+41500 midPrice:  4951.0
+average is:  4951.18027058259
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+41600 midPrice:  4951.0
+average is:  4951.166403614699
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+41700 midPrice:  4950.5
+average is:  4951.115141798185
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+41800 midPrice:  4949.5
+average is:  4950.990900121402
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+41900 midPrice:  4952.0
+average is:  4951.068523188987
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+42000 midPrice:  4951.5
+average is:  4951.101713712911
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+42100 midPrice:  4951.5
+average is:  4951.132351119611
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+42200 midPrice:  4950.5
+average is:  4951.083708725795
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+42300 midPrice:  4954.0
+average is:  4951.308038823811
+SELL -1.69196117618867x 4953
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10002.5
+average is:  10001.385
+42400 midPrice:  4951.0
+average is:  4951.284343529673
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+42500 midPrice:  4951.0
+average is:  4951.262470950468
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+42600 midPrice:  4949.5
+average is:  4951.126896261971
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+42700 midPrice:  4950.5
+average is:  4951.078673472589
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+42800 midPrice:  4950.5
+average is:  4951.034160128544
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+42900 midPrice:  4949.5
+average is:  4950.916147810964
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+43400 midPrice:  4948.5
+average is:  4950.175094580556
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+43500 midPrice:  4948.5
+average is:  4950.0462411512835
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+43600 midPrice:  4947.5
+average is:  4949.850376447339
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+43700 midPrice:  4949.0
+average is:  4949.784962874467
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+43800 midPrice:  4948.5
+average is:  4949.686119576432
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+43900 midPrice:  4948.5
+average is:  4949.594879609014
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+44700 midPrice:  4946.5
+average is:  4948.131349106934
+BUY 0.1313491069340671x 4948
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+44800 midPrice:  4947.0
+average is:  4948.0443222525555
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+44900 midPrice:  4947.5
+average is:  4948.002451310052
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+45000 midPrice:  4948.0
+average is:  4948.00226274774
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+45100 midPrice:  4948.0
+average is:  4948.002088690222
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+45200 midPrice:  4948.5
+average is:  4948.040389560205
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+45300 midPrice:  4945.5
+average is:  4947.844974978651
+BUY 1.8449749786514076x 4946
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+45400 midPrice:  4949.0
+average is:  4947.933823057217
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+45500 midPrice:  4949.0
+average is:  4948.0158366682
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+45600 midPrice:  4951.5
+average is:  4948.283849232184
+SELL -2.716150767815634x 4951
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+46000 midPrice:  4948.0
+average is:  4948.301876603712
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+46100 midPrice:  4945.5
+average is:  4948.0863476341965
+BUY 2.0863476341964997x 4946
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+46200 midPrice:  4945.5
+average is:  4947.887397816182
+BUY 1.887397816181874x 4946
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+46300 midPrice:  4950.5
+average is:  4948.0883672149375
+SELL -1.9116327850624657x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+46400 midPrice:  4947.5
+average is:  4948.043108198404
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+46500 midPrice:  4944.5
+average is:  4947.770561413912
+BUY 2.770561413912219x 4945
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+46600 midPrice:  4948.0
+average is:  4947.7882105359195
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+46700 midPrice:  4947.5
+average is:  4947.766040494695
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+46800 midPrice:  4948.0
+average is:  4947.784037379719
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+46900 midPrice:  4950.5
+average is:  4947.992957581279
+SELL -2.00704241872063x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+47000 midPrice:  4946.5
+average is:  4947.878114690412
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+47100 midPrice:  4948.0
+average is:  4947.887490483457
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+47200 midPrice:  4950.5
+average is:  4948.088452753961
+SELL -1.9115472460389356x 4950
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+47300 midPrice:  4947.5
+average is:  4948.043187157503
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+47400 midPrice:  4947.5
+average is:  4948.001403530003
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+47500 midPrice:  4947.0
+average is:  4947.924372489234
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+47600 midPrice:  4946.5
+average is:  4947.814805374678
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+47700 midPrice:  4946.0
+average is:  4947.675204961241
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+47800 midPrice:  4945.5
+average is:  4947.5078815026845
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+47900 midPrice:  4946.5
+average is:  4947.430352156324
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+48000 midPrice:  4946.0
+average is:  4947.320325067376
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+48100 midPrice:  4945.5
+average is:  4947.180300062194
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+48200 midPrice:  4945.5
+average is:  4947.051046211256
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+48300 midPrice:  4948.5
+average is:  4947.1625041950065
+SELL -0.837495804993523x 4948
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+48400 midPrice:  4948.0
+average is:  4947.226926949237
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+48500 midPrice:  4945.5
+average is:  4947.0940864146805
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+48600 midPrice:  4944.5
+average is:  4946.89454130586
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+49700 midPrice:  4945.5
+average is:  4945.992059149653
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+49800 midPrice:  4944.5
+average is:  4945.8772853689115
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+49900 midPrice:  4943.5
+average is:  4945.69441726361
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+50000 midPrice:  4945.0
+average is:  4945.641000551025
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+50100 midPrice:  4944.0
+average is:  4945.514769739409
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+50200 midPrice:  4945.0
+average is:  4945.475172067147
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+50300 midPrice:  4944.0
+average is:  4945.361697292751
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+50800 midPrice:  4944.0
+average is:  4945.258331993197
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+50900 midPrice:  4944.5
+average is:  4945.199998762952
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+51000 midPrice:  4945.0
+average is:  4945.184614242726
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+51100 midPrice:  4944.5
+average is:  4945.1319516086705
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+51200 midPrice:  4944.0
+average is:  4945.044878408004
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+51300 midPrice:  4944.0
+average is:  4944.964503145849
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+51400 midPrice:  4944.5
+average is:  4944.928772134631
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+51500 midPrice:  4944.5
+average is:  4944.895789662737
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+51600 midPrice:  4944.0
+average is:  4944.826882765604
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+51700 midPrice:  4943.5
+average is:  4944.724814860558
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+51800 midPrice:  4945.0
+average is:  4944.745982948207
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+51900 midPrice:  4943.5
+average is:  4944.650138106037
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+52000 midPrice:  4944.0
+average is:  4944.600127482496
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10002.0
+average is:  10001.385
+52100 midPrice:  4943.5
+average is:  4944.515502291534
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+52200 midPrice:  4943.5
+average is:  4944.437386730647
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+52300 midPrice:  4942.5
+average is:  4944.288356982136
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+52400 midPrice:  4944.0
+average is:  4944.266175675818
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10002.0
+average is:  10001.385
+52500 midPrice:  4944.0
+average is:  4944.245700623832
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+52600 midPrice:  4944.0
+average is:  4944.226800575845
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+52700 midPrice:  4944.5
+average is:  4944.247815916166
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+52800 midPrice:  4944.5
+average is:  4944.267214691846
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+52900 midPrice:  4944.0
+average is:  4944.24665971555
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+53000 midPrice:  4944.5
+average is:  4944.266147429739
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+53100 midPrice:  4946.0
+average is:  4944.3995207043745
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+53200 midPrice:  4946.5
+average is:  4944.561096034808
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+53300 midPrice:  4946.5
+average is:  4944.710242493669
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+53400 midPrice:  4942.5
+average is:  4944.54022384031
+BUY 1.5402238403103183x 4943
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+53500 midPrice:  4945.5
+average is:  4944.614052775672
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+53600 midPrice:  4946.0
+average is:  4944.72066410062
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+53700 midPrice:  4945.5
+average is:  4944.780613015957
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+53800 midPrice:  4946.0
+average is:  4944.874412014729
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+53900 midPrice:  4950.0
+average is:  4945.268688013596
+SELL -3.7313119864038526x 4949
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+54000 midPrice:  4948.0
+average is:  4945.478788935628
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+54100 midPrice:  4947.5
+average is:  4945.63426670981
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+54200 midPrice:  4946.5
+average is:  4945.700861578286
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+54300 midPrice:  4948.0
+average is:  4945.877718379957
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+54400 midPrice:  4947.5
+average is:  4946.002509273806
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+54500 midPrice:  4944.5
+average is:  4945.88693163736
+BUY 0.8869316373602487x 4945
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+54600 midPrice:  4947.5
+average is:  4946.011013819102
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+54700 midPrice:  4947.0
+average is:  4946.087089679172
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+54800 midPrice:  4946.5
+average is:  4946.118852011544
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+54900 midPrice:  4946.0
+average is:  4946.109709549118
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+55000 midPrice:  4946.0
+average is:  4946.101270353031
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+55700 midPrice:  4947.5
+average is:  4946.4276079281035
+SELL -0.5723920718965019x 4947
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+55800 midPrice:  4946.5
+average is:  4946.433176549019
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+55900 midPrice:  4946.5
+average is:  4946.43831681448
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+56000 midPrice:  4946.5
+average is:  4946.443061674904
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+56100 midPrice:  4946.5
+average is:  4946.447441546065
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+56200 midPrice:  4946.5
+average is:  4946.45148450406
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+56300 midPrice:  4945.5
+average is:  4946.378293388364
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+56400 midPrice:  4947.0
+average is:  4946.426116973875
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+56500 midPrice:  4946.5
+average is:  4946.431800283577
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+56600 midPrice:  4946.0
+average is:  4946.398584877148
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+56700 midPrice:  4946.5
+average is:  4946.406386040445
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+56800 midPrice:  4946.5
+average is:  4946.413587114257
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+56900 midPrice:  4947.0
+average is:  4946.458695797776
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+57000 midPrice:  4946.0
+average is:  4946.42341150564
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+57100 midPrice:  4946.0
+average is:  4946.390841389822
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+57200 midPrice:  4944.5
+average is:  4946.245392052144
+BUY 0.2453920521438704x 4946
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+57400 midPrice:  4946.0
+average is:  4946.244594411295
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+57500 midPrice:  4946.5
+average is:  4946.264240995042
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+57600 midPrice:  4947.5
+average is:  4946.359299380039
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+57700 midPrice:  4947.0
+average is:  4946.4085840431135
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+57800 midPrice:  4948.0
+average is:  4946.531000655182
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+58300 midPrice:  4947.5
+average is:  4946.822674962982
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+58400 midPrice:  4947.5
+average is:  4946.874776888907
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.5
+average is:  10001.385
+BUY 1.3850000000002183x 10000
+58500 midPrice:  4948.0
+average is:  4946.9613325128375
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+58600 midPrice:  4948.0
+average is:  4947.0412300118505
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+58700 midPrice:  4948.0
+average is:  4947.114981549401
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+58800 midPrice:  4948.0
+average is:  4947.183059891755
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+58900 midPrice:  4947.5
+average is:  4947.207439900081
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+59000 midPrice:  4948.0
+average is:  4947.268406061614
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+59100 midPrice:  4944.5
+average is:  4947.055451749183
+BUY 2.0554517491827937x 4945
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+59200 midPrice:  4950.0
+average is:  4947.281955460784
+SELL -1.7180445392159527x 4949
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10002.0
+average is:  10001.385
+59300 midPrice:  4947.0
+average is:  4947.260266579186
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+59400 midPrice:  4946.5
+average is:  4947.201784534633
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+59500 midPrice:  4947.5
+average is:  4947.224724185815
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+59600 midPrice:  4947.5
+average is:  4947.245899248444
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+59700 midPrice:  4948.0
+average is:  4947.303906998564
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+59800 midPrice:  4947.5
+average is:  4947.318991075598
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+60100 midPrice:  4948.5
+average is:  4947.571104496419
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+60200 midPrice:  4949.0
+average is:  4947.681019535156
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10002.0
+average is:  10001.385
+60300 midPrice:  4948.5
+average is:  4947.744018032452
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+60400 midPrice:  4949.0
+average is:  4947.8406320299555
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10002.0
+average is:  10001.385
+60500 midPrice:  4949.0
+average is:  4947.929814181498
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+60600 midPrice:  4947.5
+average is:  4947.896751552152
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+60700 midPrice:  4948.5
+average is:  4947.94315527891
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+60800 midPrice:  4948.5
+average is:  4947.985989488225
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+60900 midPrice:  4948.0
+average is:  4947.9870672199
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+61000 midPrice:  4947.5
+average is:  4947.949600510678
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+61100 midPrice:  4944.5
+average is:  4947.684246625242
+BUY 2.68424662524194x 4945
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+61200 midPrice:  4947.5
+average is:  4947.670073807915
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+61300 midPrice:  4947.0
+average is:  4947.618529668845
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+63400 midPrice:  4946.5
+average is:  4947.371459081945
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+63500 midPrice:  4945.5
+average is:  4947.227500691027
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+63600 midPrice:  4945.5
+average is:  4947.094616022487
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+63700 midPrice:  4946.5
+average is:  4947.048876328449
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+63800 midPrice:  4946.0
+average is:  4946.968193533953
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+63900 midPrice:  4944.5
+average is:  4946.7783324928805
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+64000 midPrice:  4945.0
+average is:  4946.641537685736
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+64100 midPrice:  4944.5
+average is:  4946.476804017603
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+64200 midPrice:  4943.5
+average is:  4946.247819093172
+BUY 0.24781909317243844x 4946
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+64300 midPrice:  4944.5
+average is:  4946.113371470621
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+64400 midPrice:  4943.5
+average is:  4945.912342895958
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+64500 midPrice:  4944.5
+average is:  4945.803701134731
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+64600 midPrice:  4944.5
+average is:  4945.70341643206
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+64700 midPrice:  4943.5
+average is:  4945.533922860363
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+64800 midPrice:  4943.0
+average is:  4945.339005717259
+BUY 0.3390057172591696x 4945
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+64900 midPrice:  4940.5
+average is:  4944.96677450824
+BUY 3.966774508239723x 4941
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+65000 midPrice:  4943.5
+average is:  4944.853945699913
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+65100 midPrice:  4944.5
+average is:  4944.826719107613
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+65500 midPrice:  4943.0
+average is:  4944.697869381866
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+65600 midPrice:  4944.0
+average is:  4944.644187121723
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+65700 midPrice:  4943.5
+average is:  4944.5561727277445
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+65800 midPrice:  4943.5
+average is:  4944.474928671764
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+65900 midPrice:  4943.0
+average is:  4944.36147262009
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+66000 midPrice:  4944.0
+average is:  4944.3336670339295
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+66100 midPrice:  4943.5
+average is:  4944.26953880055
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+66200 midPrice:  4943.5
+average is:  4944.210343508201
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+66300 midPrice:  4943.5
+average is:  4944.155701699878
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+66400 midPrice:  4942.5
+average is:  4944.028340030656
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+66500 midPrice:  4940.5
+average is:  4943.756929259068
+BUY 2.7569292590678742x 4941
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+66600 midPrice:  4943.0
+average is:  4943.698703931448
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+66700 midPrice:  4944.0
+average is:  4943.721880552106
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+66800 midPrice:  4942.0
+average is:  4943.5894282019435
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+66900 midPrice:  4941.5
+average is:  4943.428702955641
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+67100 midPrice:  4938.5
+average is:  4942.699604885281
+BUY 3.699604885280678x 4939
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+67200 midPrice:  4940.0
+average is:  4942.491942971029
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+67300 midPrice:  4939.5
+average is:  4942.261793511719
+BUY 0.26179351171867893x 4942
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+67400 midPrice:  4940.0
+average is:  4942.0878093954325
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+67500 midPrice:  4940.5
+average is:  4941.965670211169
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+67600 midPrice:  4940.5
+average is:  4941.852926348772
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+67800 midPrice:  4941.0
+average is:  4941.726753811971
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+67900 midPrice:  4940.0
+average is:  4941.593926595666
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+68000 midPrice:  4941.5
+average is:  4941.586701472923
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+68100 midPrice:  4940.5
+average is:  4941.50310905193
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+68200 midPrice:  4939.5
+average is:  4941.349023740243
+BUY 0.3490237402429557x 4941
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+68300 midPrice:  4940.5
+average is:  4941.283714221763
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+68400 midPrice:  4941.0
+average is:  4941.261890050859
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+68500 midPrice:  4941.5
+average is:  4941.280206200793
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.0
+average is:  10001.385
+68600 midPrice:  4940.5
+average is:  4941.220190339194
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+69200 midPrice:  4942.0
+average is:  4941.5624162526
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+69300 midPrice:  4942.0
+average is:  4941.596076540862
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+70100 midPrice:  4940.5
+average is:  4941.367250289555
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+70200 midPrice:  4940.0
+average is:  4941.2620771903585
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.0
+average is:  10001.385
+BUY 1.3850000000002183x 10000
+70300 midPrice:  4939.0
+average is:  4941.088071252639
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+70400 midPrice:  4938.0
+average is:  4940.850527310129
+BUY 0.8505273101291095x 4940
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+70500 midPrice:  4939.5
+average is:  4940.746640593965
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+70600 midPrice:  4941.5
+average is:  4940.8045913175065
+SELL -0.1954086824935075x 4941
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+70700 midPrice:  4937.5
+average is:  4940.550391985391
+BUY 0.5503919853908883x 4940
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+70800 midPrice:  4938.5
+average is:  4940.392669524977
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+70900 midPrice:  4937.5
+average is:  4940.170156484594
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+71000 midPrice:  4940.5
+average is:  4940.195529062703
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+71100 midPrice:  4934.5
+average is:  4939.757411442495
+BUY 4.75741144249514x 4935
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+71200 midPrice:  4938.0
+average is:  4939.62222594692
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+71300 midPrice:  4938.5
+average is:  4939.53590087408
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+71400 midPrice:  4937.5
+average is:  4939.379293114535
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10001.5
+average is:  10001.385
+71500 midPrice:  4939.0
+average is:  4939.35011672111
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+71600 midPrice:  4939.5
+average is:  4939.361646204101
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+71700 midPrice:  4939.5
+average is:  4939.3722888037855
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+71800 midPrice:  4940.0
+average is:  4939.420574280418
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+71900 midPrice:  4938.0
+average is:  4939.311299335771
+BUY 0.31129933577085467x 4939
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+72000 midPrice:  4939.5
+average is:  4939.3258147714805
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9998.5
+average is:  10001.385
+72100 midPrice:  4937.5
+average is:  4939.185367481367
+BUY 1.1853674813673933x 4938
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+72200 midPrice:  4939.5
+average is:  4939.2095699828005
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+72300 midPrice:  4939.0
+average is:  4939.193449214893
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+72400 midPrice:  4938.5
+average is:  4939.140106967594
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+72500 midPrice:  4939.0
+average is:  4939.129329508549
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+72600 midPrice:  4940.0
+average is:  4939.196304161737
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+72700 midPrice:  4939.5
+average is:  4939.219665380065
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+72800 midPrice:  4939.5
+average is:  4939.241229581598
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+72900 midPrice:  4940.0
+average is:  4939.29959653686
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+73000 midPrice:  4940.0
+average is:  4939.353473726333
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+73100 midPrice:  4939.5
+average is:  4939.364744978153
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9999.0
+average is:  10001.385
+73200 midPrice:  4941.0
+average is:  4939.490533825988
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+73300 midPrice:  4942.5
+average is:  4939.722031223989
+SELL -1.277968776011221x 4941
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  10000.0
+average is:  10001.385
+73400 midPrice:  4940.5
+average is:  4939.78187497599
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9997.0
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+73500 midPrice:  4941.5
+average is:  4939.914038439376
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+73700 midPrice:  4943.5
+average is:  4940.23148837438
+SELL -2.7685116256197944x 4943
+Highest Pearl 
+10002
+Lowest Pearl
+9998
+midPrice:  9996.5
+average is:  10001.385
+BUY 3.3850000000002183x 9998
+
+
+Submission logs:
+2023-03-19T10:40:21Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "a15f5767-dda6-4fc9-8e76-fde1bc85c144", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:21Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "4040dd41-5708-41a8-ad66-ead61d6a6330", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:21Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "a04f4390-5b27-4f73-a415-e5f46f058c1b", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:21Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "b597b3a7-8bf6-4cee-92d7-9e7c51b9d384", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:21Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "f79609b7-ef54-4e2d-afb2-17120bf59ad0", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:21Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "b669fcc5-4214-426b-aad9-5eeace97dd00", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "8296b965-c9f4-48f1-9a69-8f3157f099b4", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "a0c752d0-cd2e-4d8e-a7cf-cb87c34af4d5", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "83a0bc46-f614-44d9-b993-1fd523290b2a", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "71fdcb52-6063-4896-9939-2315a40f7397", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "3bf9d81f-85ed-47a2-bb44-75f988e5720e", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "89dd8912-6571-42bc-a739-e1433df501d2", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "0d088d4b-4b08-40fa-9ebf-8075fb77b3b2", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "1e15df42-80d1-4a39-b626-f4da02d59272", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "cd8792bd-41a1-46f8-8138-bba8e2c227c1", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "0c831726-5037-47a9-a815-3a538763c5e3", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "785db56d-8614-4314-acee-06abab5b6efc", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "c300dab2-485c-4b78-b0b4-c8d665b6bc59", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "87a03b84-b6fe-4156-a8af-a7e2ec10f411", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "b5faf87c-891e-43ea-b987-a5cb6a1d2171", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "14fefaca-a180-4663-bc86-dff3837abe5e", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "296d2fb2-d4de-41c5-8fd7-cfca05ff6684", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "63849076-3490-4de0-9feb-052e287d137b", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "4b331949-ecce-4140-97cd-5033a8ccfcb1", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "1ed122e4-b797-4bb1-83c3-f04ccdd63b8a", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "c9e1413f-ef94-4153-ac62-32652cc1b7c8", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "82b9db99-872a-4619-a842-9070506469dd", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "4dacc3b8-a1a6-4d00-b406-ee67e9a57b06", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "dbf490be-2452-4b90-b39e-de740587f21c", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "1306ec77-5f18-463a-8026-e13e460b2736", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "c1526704-575c-42e2-8314-6884b16e5043", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "48512548-70bd-4adb-99a5-a6c7dd33de4b", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:22Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "8f6d11d0-8c08-4c9f-be62-a52adf380609", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "1c3e335d-8f2a-4d19-a8cd-8c408329436b", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "b52da579-e570-4ac5-8828-9f0d3b5fccc8", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "34bf1ea6-2b58-4088-8090-c31ed695df3d", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "ae1e9369-efd7-4d7f-97e0-dbe1d519229f", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "6eb51924-28af-4766-ba99-c0aec4d292a1", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "551b4ecd-3edd-4852-968d-97b509668b12", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "f8b233d3-a823-4db8-8160-e5252aba68ce", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "be64e972-94ea-4ca7-ac73-33fe25f6560c", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "c8cd9a27-af4d-4b45-adcc-042468289b63", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "d9a8db3b-57c6-4e69-adff-6d2bc607c716", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "fe1007df-c618-4b5d-bd35-5573ace49ac9", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "4c078649-1be9-4da9-9da8-8b8fd514aeac", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "55424251-09f6-4841-9c00-973f7eb89937", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "f078443c-711d-443b-b8b3-81927b68ae5d", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z Orders for product BANANAS exceeded limit of 20 set
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "16c33598-4d62-4b23-8861-d599ae253b6a", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:23Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "9624f29e-3563-4549-95f1-572715bde28b", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "5c259747-ae41-4a2b-ab62-1512d2dcab64", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "3d8fa105-67fd-46a5-8192-996aef16c572", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "ee146866-826c-435e-a89d-64b7753d07c3", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "d3a62441-9ca0-44ee-9bb2-8af553630018", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z Orders for product PEARLS exceeded limit of 20 set
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "c0fe7113-4ecc-4dbc-9984-cc472617c2b5", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "332251e7-c6c6-467d-bf6a-af7d460822a5", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "27a6c7ab-20c3-40bd-8b75-eebd25249c6c", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "fb8186ef-dcb7-4c51-a440-6efb80340fa7", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "2ec29614-acc3-4b91-b393-6e327de2cb2d", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "d301608c-cd6e-4256-bf3c-14e9638d5dd7", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "6f70d830-9889-47dc-bbf1-9db614345b70", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "7956ccd5-5aab-4f23-ae72-12fe016e9206", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "de923c4e-3022-4620-8a87-a745927b3452", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z Orders for product BANANAS exceeded limit of 20 set
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "0de6d0a1-85da-4581-bda1-cc28f32917d8", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:24Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "b736ba21-023e-454a-9a27-b66c1f539142", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:25Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "9f2279b0-be26-4a06-a109-d62ed61ab248", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:25Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "e41b97cf-19db-4094-b448-38b163e0037c", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:26Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "f7f15c00-fa82-4b61-8b5b-7e4047d6265c", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:26Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "7615b454-0fe8-471b-9cb3-9fc95da1e578", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:26Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "2d89b14f-a93a-4e44-a7d4-49d9ec09fec9", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:26Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "2c900457-55ce-4297-83cc-f12dff1108a6", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:26Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "15940ed6-a20f-4bde-8c4a-2fe2dd6d3c75", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:26Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "bfa64c7f-a47a-4222-bb3d-b60d3cc14417", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:26Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "0c8c3537-1cdd-41b5-9806-45ea9cd4e210", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:27Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "690b8f7b-f6ef-4478-b458-fb878822b842", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:27Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "0ddd9d66-3728-48d6-b096-6ef06ff51223", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:27Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "939e930c-3816-4451-bae9-4d53e1261e56", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:27Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "61a7bc8a-253d-407e-87bb-5ce1eb0d20d8", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:27Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "f4593206-d69d-4733-b0d7-716a949444b4", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:28Z Orders for product PEARLS exceeded limit of 20 set
+2023-03-19T10:40:28Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "893b3d5d-2238-4f0b-b8df-dc187d8aeadc", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:28Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "f0ea2e62-557f-4f0d-aa22-29874f943760", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:29Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "97d4f604-9dd9-4900-bf08-2100f6b14a50", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:29Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "b46f45b4-4856-447d-8352-faaa2d1f47a4", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:29Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "446beed1-b408-46a6-8190-d91a99178401", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:29Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "c8169850-1200-425d-a71d-ddcd32611a8e", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:29Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "b78003a1-7109-45a0-a7e1-304f6a7c5f53", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:29Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "e07f6604-f0b7-4629-a922-b7f2503da356", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:29Z Orders for product PEARLS exceeded limit of 20 set
+2023-03-19T10:40:29Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "abecd975-b561-46d3-a492-5fe4b7a0cc96", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:29Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "d7c9765f-1158-4c41-835b-78b5a3278534", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:29Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "2c761d59-5e98-4551-943d-a4753d1f30b4", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:29Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "872996c3-827d-4748-8a88-8de462f82913", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:29Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "b635e8c2-26b8-41d7-977b-5738f3e3660a", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:29Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "e3fa417b-e537-419c-b012-6d7298c7b3d6", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:29Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "f98f1239-afa1-49d8-af0a-27dc632f89fe", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "5e5ad218-fe4b-4fab-9da3-3aae69374562", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "8c5bbac7-b593-4de5-840e-fa2e767d1c2d", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "cd8f62ca-09ca-4a86-9117-e33903e68d13", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "8016aa18-ab64-4f13-be1d-3ad034e1d9a3", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "9faf379b-ccfe-4d4b-9df3-93a8c1a8d2d6", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "5d698941-8ed4-46ec-af84-b6dac7b37979", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z Orders for product PEARLS exceeded limit of 20 set
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "64baa23b-26bb-4192-a036-6bbbd8ac1bc7", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "ae50d04d-b213-4fa1-8062-adfdfa62b894", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "f072416d-3fd8-4df0-a32e-f3939ca3330f", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "565c73dc-bc63-454a-b0ff-eeb3d03e6baa", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "3506cccc-9a82-406b-b20d-f14c516e41d8", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "c8df34c0-cf44-4940-a1e6-d879a9da69bc", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "06488de6-8a45-48a7-b427-924327d84e0f", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "58547eb3-b8e3-41fc-a8d4-41bdd6cdcb5e", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "57eb8f3a-620d-41f6-8756-8b60e6014ac2", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "36ea38e6-c486-41fe-bd19-ace8322ae3c0", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "fab112a0-2c42-4f4d-899b-d9f00a63c56a", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "6eca44de-a7db-4ed6-b39d-b3132c162c71", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "b5fda870-99eb-4352-ba53-2a041dc966f3", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "1da5494b-2651-4299-bb47-b034da54f078", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "79b02919-bf78-4d72-9d90-8ad611d61524", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "7f829b31-69cf-412b-9553-eb95b3084ee1", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "ec30807d-3fb3-475f-a39d-9f5018c36d3e", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "ec6b1fb5-ea93-4f73-9f28-936cab52780f", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "ac4f6473-376a-4191-a3d8-d8c0997c06a3", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "e6ac6ab3-f158-4e00-b662-06f3b812c3f9", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:30Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "8fc7464a-37b4-4f54-bd18-552e331676ae", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:31Z Orders for product PEARLS exceeded limit of 20 set
+2023-03-19T10:40:31Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "a45b7418-7de8-46a1-be5b-15552daccd4a", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:31Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "6d88a706-a653-4489-b4ac-9da085acbad4", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:31Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "943668fb-1d97-499e-98cf-12acad5dfd46", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:31Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "8a5de963-a4cd-40ff-b9e1-695f9a7e6f7c", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:31Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "62eaf70f-f091-4138-868b-3ff7c40fbe8d", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:32Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "b7713a17-4e49-4a87-86c3-cba33bde964a", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:32Z Orders for product PEARLS exceeded limit of 20 set
+2023-03-19T10:40:32Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "1e6e9416-f44c-43ec-b71a-81dcbe5c638e", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:32Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "ea96ae54-8a64-4612-abb9-5686d04ba340", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:32Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "e2794289-ec09-4a19-a577-684e01103f32", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:32Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "a77d1d79-b7a7-47b2-b6bc-21a69c0a02db", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:32Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "f82a699f-9f91-4c52-b1ce-aafec0ad8d7b", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:32Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "73883b1f-8b63-4232-97d3-5064c2ef0d93", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:32Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "c9c6e721-c066-4669-9858-0c4b18d72f99", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:32Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "2110c652-7f5c-4512-ae9e-5e1e9ec78514", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:32Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "246dbd3e-2705-4770-bab2-14b3c5db4ff7", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:33Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "9114c81c-03a0-41e6-ba9e-208da24bc675", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:33Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "ecd6cc7d-38ce-4dfc-80e3-03f2ded98584", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:33Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "aedf8d62-fb70-44df-b99d-0408f0d27e72", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:33Z Orders for product PEARLS exceeded limit of 20 set
+2023-03-19T10:40:33Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "8593d008-5655-4d45-9ffe-c13bfce0e7d0", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:33Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "bd291cd6-56d9-4b7b-9a1b-f2df3a0b6770", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:33Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "44bf6933-1b90-48f7-9010-8855095abeb5", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:33Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "7d0ca581-68e3-40a1-8f4a-074359119487", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:33Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "161edb0b-149a-4d39-ab01-1999e4c7afff", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:33Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "57b29f73-b171-4d78-bcc1-97fa3c6fd050", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:33Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "edcb60f6-935d-4340-a6be-155cbaf1519e", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:33Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "1d51c12e-dea6-48b3-b6cc-53aead31716c", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:33Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "7e84c542-3935-4bf7-89af-2b10fc9658d2", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:33Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "7b02f64f-c631-46eb-b379-4103468966a9", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:33Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "afce6138-1d14-4ca3-9d8b-090df616ff32", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:34Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "a7bd8dca-bd70-449f-8bc8-da5b46becce0", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:34Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "fab0547c-323b-47b5-86a3-c3697849ce40", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:34Z Orders for product PEARLS exceeded limit of 20 set
+2023-03-19T10:40:34Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "d777737e-075c-4220-a6b5-ffb47ceb2a3b", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:34Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "f0e34089-9b39-4602-95d0-fd5a9017a457", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:34Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "f11d613e-fd86-47dc-85fb-f61bb119af6d", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:34Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "24766003-5ca9-4280-8e29-fe2e99ebf0c3", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:35Z Orders for product BANANAS exceeded limit of 20 set
+2023-03-19T10:40:35Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "54f94c47-dba4-4358-8c32-ff2746cce209", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:35Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "1be4ca06-985e-404c-a352-7af92de6cbf0", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:35Z Orders for product PEARLS exceeded limit of 20 set
+2023-03-19T10:40:35Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "a08869b1-ed9a-424e-9b6d-1948d0be7294", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:35Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "98bbb803-c05b-4250-b260-734b35c59a32", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:35Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "ebaab015-5fcf-433e-8530-d9e72ab34518", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "687912b9-57f6-4432-8d00-5075e465dfe0", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "59a3b160-74c9-44e1-b92e-c597ea6bc1d7", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "84f62f14-e825-4b74-a60d-70523f9d0b5d", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "4b04878e-2f29-46d4-85af-56dd7a9417b5", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "e0389706-3c27-43bb-89d6-0ee29db8b125", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "5db4af15-7f61-4257-961d-38491e8bc9ec", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "367a4110-4834-4cd8-aeb7-8f6e67af7ff9", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "dcb98cc2-c8b6-4b6a-bbb0-8b022a0d7ff1", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "3831780b-34fa-4f8b-ab49-c9b9b0a27ebf", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z Orders for product PEARLS exceeded limit of 20 set
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "8be451ca-0a97-4e06-9b5d-3ce61850e608", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "93d678f4-67bf-4cca-a3e0-5666fcd075e6", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "2d1025de-b52c-45da-92c6-4885a6fba8ca", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "ca42d5f1-3d2e-4678-b402-da6a19ab1313", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "3ec311ee-4159-4275-979d-7d2972fc1d04", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "af405b9f-3229-4092-8b26-8fc9639b43a2", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "602073ed-e395-45ce-8ed7-d45d0add07a0", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "5024f191-c177-4e17-b16e-c7340282bd07", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "e61bf12f-dca2-4c95-8a04-ffed76186673", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "58696407-afa9-4c7c-b115-2fed081c78bc", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "8f4668de-f1b3-4c43-999f-ad2abb6e8244", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "e442af84-5734-4688-9f94-2dd11e9e33d8", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:36Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "a1e62515-75fb-49e9-a5b7-75fba15a1eed", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:37Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "41ae4193-9a5a-451c-a7ad-7d70bb819da1", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:37Z Orders for product PEARLS exceeded limit of 20 set
+2023-03-19T10:40:37Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "00c3e669-8c75-415b-9c39-6b83ea3e88a1", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:37Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "6d965d0c-6309-4b91-bed2-21e4ea23180f", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:37Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "60e777ad-91e6-4628-8cd7-4e63f02d9a7c", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:38Z Orders for product BANANAS exceeded limit of 20 set
+2023-03-19T10:40:38Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "e1c6f0c8-cb74-4486-bcdc-728ebfd04045", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:38Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "0ba7907a-05cf-4d02-a5d0-3a06c9f81f51", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:38Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "ca3bc587-6231-4d6c-9cc5-26fd51489983", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:38Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "3c63ec3d-a761-4ce9-ad93-8da250dc3e9e", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:38Z Orders for product PEARLS exceeded limit of 20 set
+2023-03-19T10:40:38Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "b912afc1-7017-42bd-8855-3608f765af9b", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:38Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "f309b0ef-5fd6-4d24-a0a9-87b5be458eda", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:38Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "a9345867-4c65-4bf6-ab3c-52ea3a72433d", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:38Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "0dd8fd6e-39e0-482d-a3f7-a4916e6929bc", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:38Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "869480b1-343a-4877-afcf-b1c3485299ab", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:38Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "d225a94b-e7f9-400a-abc1-ef2a3bc53785", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:38Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "04d295a2-4990-4c82-bdbe-f8f81a0b2ab8", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:38Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "cd034865-542c-4189-9eca-7568cd1c73fe", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:38Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "217e0484-a918-4237-97a5-7cb0f0724b90", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:39Z Orders for product BANANAS exceeded limit of 20 set
+2023-03-19T10:40:39Z Orders for product PEARLS exceeded limit of 20 set
+2023-03-19T10:40:39Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "0cae0d12-1857-48f0-8a19-07cd2780bfe3", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}
+2023-03-19T10:40:39Z {"errorMessage": "__init__() missing 1 required positional argument: 'quantity'", "errorType": "TypeError", "requestId": "6dc5cb96-5de8-4230-9f08-debc621c8851", "stackTrace": ["  File \"/var/task/app.py\", line 31, in lambda_handler\n    orders = trader.run(trading_state)\n", "  File \"/var/task/trader.py\", line 142, in run\n    orders.append(Order(product,10002),-best_bid_volume)\n"]}

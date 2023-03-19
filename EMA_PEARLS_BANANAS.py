@@ -11,13 +11,27 @@ import pandas as pd
 # MA_POWER = 40 / 100
 # EMA_POWER = 60 / 100
 
+
+
 pearls_q = []
 bananas_q = []
 
 EMA_yesterday_bananas = 0
 EMA_yesterday_pearls = 0
 
+highestPearls_value = -999999
+lowestPearls_value = 999999
 
+highestBananas_value = -999999
+lowestBananas_value = 999999
+
+previousPearls_Sell = 0
+previosPearls_Buy = 0
+
+maxPearls = 0;
+maxProfitPearls = 0;
+
+Pearls_Owned = 0;
 class Trader:
 
     def run(self, state: TradingState) -> Dict[str, List[Order]]:
@@ -32,93 +46,170 @@ class Trader:
         for product in state.order_depths.keys():
 
             #Check if the current product is the 'PEARLS' product, only then run the order logic
-            if product == 'PEARLS':
-                global EMA_yesterday_pearls
+            # if product == 'PEARLS':
+            #     global EMA_yesterday_pearls
+            #     global highestPearls_value
+            #     global lowestPearls_value
+            #
+            #     global maxPearls
+            #     global maxProfitPearls
+            #
+            #     global Pearls_Owned
+            #
+            #
+            #
+            #
+            #     percent = 1.5/10000
+            #
+            #     # Retrieve the Order Depth containing all the market BUY and SELL orders for PEARLS
+            #     order_depth: OrderDepth = state.order_depths[product]
+            #
+            #     # Initialize the list of Orders to be sent as an empty list
+            #     orders: list[Order] = []
+            #     best_bid2 = max(order_depth.buy_orders.keys())
+            #     best_bid_volume2 = order_depth.buy_orders[best_bid2]
+            #     best_ask2 = min(order_depth.sell_orders.keys())
+            #     best_ask_volume2 = order_depth.sell_orders[best_ask2]
+            #
+            #
+            #     highestPearls_value = max(highestPearls_value,best_bid2)
+            #     lowestPearls_value = min(lowestPearls_value,best_ask2)
+            #
+            #     profit = best_bid2 - best_ask2
+            #     if(best_bid2<10000):
+            #         maxPearls+=best_bid2
+            #
+            #     if(best_ask2>10000):
+            #         maxProfitPearls+=best_ask2
+            #
+            #     print("Total BOUGHT : ", maxPearls)
+            #     print("Total SOLD : ", maxProfitPearls)
+            #
+            #
+            #     print("Highest Pearl ")
+            #     print(highestPearls_value)
+            #
+            #     print("Lowest Pearl")
+            #
+            #     print(lowestPearls_value)
+            #
+            #     mid_price = (best_ask2 + best_bid2) / 2
+            #     print("midPrice: ", mid_price)
+            #     pearls_q.append(mid_price)
+            #
+            #     if len(pearls_q) > 100:
+            #         pearls_q.pop()
+            #
+            #     average = 0
+            #     for val in pearls_q:
+            #         average += val
+            #
+            #     average /= len(pearls_q)
+            #
+            #     Close_today = mid_price;
+            #
+            #
+            #
+            #     n = 25
+            #
+            #     EMA_today = (Close_today * (2 / (n + 1))) + (EMA_yesterday_pearls * (1 - (2 / (n + 1))))
+            #     EMA_yesterday_pearls = EMA_today
+            #
+            #     average_ema = EMA_today
+            #
+            #     if len(pearls_q) < 1000:
+            #         acceptable_price = average
+            #     else:
+            #         acceptable_price = average_ema
+            #
+            #
+            #
+            #
+            #     # Define a fair value for the PEARLS.
+            #     # Note that this value of 1 is just a dummy value, you should likely change it!
+            #
+            #     print("average is: ", acceptable_price)
+            #
+            #     # If statement checks if there are any SELL orders in the PEARLS market
+            #     if len(order_depth.sell_orders) > 0:
+            #
+            #         # Sort all the available sell orders by their price,
+            #         # and select only the sell order with the lowest price
+            #         best_ask = min(order_depth.sell_orders.keys())
+            #         bestAsks = []
+            #         for key,value in order_depth.sell_orders.items():
+            #             if key < 10001 and key > 9997:
+            #                 print("KEY BAGATA: ",key,"VALUE BAGATA: ",value)
+            #                 bestAsks.append((key,value))
+            #
+            #         print("This is the lowest ask : ")
+            #         print(best_ask)
+            #
+            #         best_ask_volume = order_depth.sell_orders[best_ask]
+            #
+            #         # Check if the lowest ask (sell order) is lower than the above defined fair value
+            #         # acceptable_price
+            #         if best_ask < 10000:
+            #             # In case the lowest ask is lower than our fair value,
+            #             # This presents an opportunity for us to buy cheaply
+            #             # The code below therefore sends a BUY order at the price level of the ask,
+            #             # with the same quantity
+            #             # We expect this order to trade with the sell order
+            #             # print("BUY", str(acceptable_price - best_ask) + "x", best_ask)
+            #             # print("BUY", best_ask_volume,"x", best_ask)
+            #             for key,value in bestAsks:
+            #                 print("KEY ",key,"VALUE ",value)
+            #
+            #             for key,value in bestAsks:
+            #                 orders.append(Order(product,key,-value))
+            #             #
+            #             # orders.append(Order(product, best_ask, -best_ask_volume))
+            #             # orders.append(Order(product,lowestPearls_value,-best_ask_volume))
+            #             # orders.append(Order(product, best_ask, -best_ask_volume + 1))
+            #             # orders.append(Order(product, best_ask, -best_ask_volume - 1))
+            #             # orders.append(Order(product, best_ask-1, -best_ask_volume))
+            #
+            #     # The below code block is similar to the one above,
+            #     # the difference is that it find the highest bid (buy order)
+            #     # If the price of the order is higher than the fair value
+            #     # This is an opportunity to sell at a premium
+            #
+            #
+            #
+            #
+            #     if len(order_depth.buy_orders) != 0:
+            #         best_bid = max(order_depth.buy_orders.keys())
+            #         best_bid_volume = order_depth.buy_orders[best_bid]
+            #
+            #         bestAsks2 = []
+            #         for key, value in order_depth.buy_orders.items():
+            #             if key > 10000:
+            #                 bestAsks2.append((key, value))
+            #
+            #         if best_bid > 10000:
+            #             #print("SELL", str(acceptable_price - best_bid) + "x", best_bid)
+            #             print("SELL", best_bid, "Biggest Bid")
+            #             for key,value in bestAsks2:
+            #                 orders.append(Order(product,key,-value))
+            #
+            #             # orders.append(Order(product, best_bid,-best_bid_volume))
+            #             # orders.append(Order(product,highestPearls_value,-best_bid_volume))
+            #
+            #             # orders.append(Order(product, best_bid, -best_bid_volume))
+            #             # orders.append(Order(product, best_bid, -best_bid_volume + 1))
+            #             # orders.append(Order(product, best_bid, -best_bid_volume - 1))
+            #             # orders.append(Order(product, best_bid+1 ,-best_bid_volume))
+            #
+            #     # Add all the above the orders to the result dict
+            #     result[product] = orders
 
-                # Retrieve the Order Depth containing all the market BUY and SELL orders for PEARLS
-                order_depth: OrderDepth = state.order_depths[product]
-
-                # Initialize the list of Orders to be sent as an empty list
-                orders: list[Order] = []
-                best_bid2 = max(order_depth.buy_orders.keys())
-                best_bid_volume2 = order_depth.buy_orders[best_bid2]
-                best_ask2 = min(order_depth.sell_orders.keys())
-                best_ask_volume2 = order_depth.sell_orders[best_ask2]
-
-                mid_price = (best_ask2 + best_bid2) / 2
-                print("midPrice: ", mid_price)
-                pearls_q.append(mid_price)
-
-                if len(pearls_q) > 100:
-                    pearls_q.pop()
-
-                average = 0
-                for val in pearls_q:
-                    average += val
-
-                average /= len(pearls_q)
-
-                Close_today = mid_price;
-
-
-
-                n = 25
-
-                EMA_today = (Close_today * (2 / (n + 1))) + (EMA_yesterday_pearls * (1 - (2 / (n + 1))))
-                EMA_yesterday_pearls = EMA_today
-
-                average_ema = EMA_today
-
-                if len(pearls_q) < 1000:
-                    acceptable_price = average
-                else:
-                    acceptable_price = average_ema
-
-
-
-
-                # Define a fair value for the PEARLS.
-                # Note that this value of 1 is just a dummy value, you should likely change it!
-
-                print("average is: ", acceptable_price)
-
-                # If statement checks if there are any SELL orders in the PEARLS market
-                if len(order_depth.sell_orders) > 0:
-
-                    # Sort all the available sell orders by their price,
-                    # and select only the sell order with the lowest price
-                    best_ask = min(order_depth.sell_orders.keys())
-                    best_ask_volume = order_depth.sell_orders[best_ask]
-
-                    # Check if the lowest ask (sell order) is lower than the above defined fair value
-                    if best_ask < acceptable_price:
-                        # In case the lowest ask is lower than our fair value,
-                        # This presents an opportunity for us to buy cheaply
-                        # The code below therefore sends a BUY order at the price level of the ask,
-                        # with the same quantity
-                        # We expect this order to trade with the sell order
-                        print("BUY", str(acceptable_price - best_ask) + "x", best_ask)
-                        orders.append(Order(product, best_ask, -best_ask_volume))
-
-                # The below code block is similar to the one above,
-                # the difference is that it find the highest bid (buy order)
-                # If the price of the order is higher than the fair value
-                # This is an opportunity to sell at a premium
-
-                if len(order_depth.buy_orders) != 0:
-                    best_bid = max(order_depth.buy_orders.keys())
-                    best_bid_volume = order_depth.buy_orders[best_bid]
-                    if best_bid > acceptable_price:
-                        print("SELL", str(acceptable_price - best_bid) + "x", best_bid)
-                        orders.append(Order(product, best_bid, -best_bid_volume))
-
-                # Add all the above the orders to the result dict
-                result[product] = orders
-
-            # Check if the current product is the 'PEARLS' product, only then run the order logic
+            #Check if the current product is the 'PEARLS' product, only then run the order logic
             if product == 'BANANAS':
 
                 global EMA_yesterday_bananas
+
+                # global highestBananas_value
+                # global lowestBananas_value
 
                 # Retrieve the Order Depth containing all the market BUY and SELL orders for PEARLS
                 order_depth: OrderDepth = state.order_depths[product]
@@ -158,14 +249,14 @@ class Trader:
 
 
 
-                n = 33
+                n = 13
 
                 EMA_today = (Close_today * (2 / (n + 1))) + (EMA_yesterday_bananas * (1 - (2 / (n + 1))))
                 EMA_yesterday_bananas = EMA_today
 
                 average_ema = EMA_today
 
-                if len(bananas_q) < 10:
+                if len(bananas_q) < 25:
                     acceptable_price = average
                 else:
                     acceptable_price = average_ema
