@@ -28,8 +28,7 @@ lowestBananas_value = 999999
 previousPearls_Sell = 0
 previosPearls_Buy = 0
 
-maxPearls = 0;
-maxProfitPearls = 0;
+
 
 Pearls_Owned = 0;
 def ema_calc(close_today , n):
@@ -37,6 +36,45 @@ def ema_calc(close_today , n):
     EMA_today = (close_today * (2 / (n + 1))) + (EMA_yesterday_bananas * (1 - (2 / (n + 1))))
     EMA_yesterday_bananas = EMA_today
     return EMA_today
+
+trend_calculator_q = []
+trend_calculator_algo = []
+
+tendayCompute_Trend = 0
+
+AllTimesAverage_q = []
+
+def trend_calculator(average,allTimeAverage):
+    global trend_calculator_q
+    global trend_calculator_algo
+    global tendayCompute_Trend
+    tendayCompute_Trend += 1
+    sume = 0
+    if len(trend_calculator_q) < 10:
+        trend_calculator_q.append(average)
+    else:
+        trend_calculator_q.pop()
+    for el in trend_calculator_q:
+        sume+=el
+
+    avg = sume / len(trend_calculator_q)
+
+    if len(trend_calculator_algo) < 10:
+        trend_calculator_algo.append(avg)
+    else:
+        trend_calculator_algo.pop()
+
+    sumeAns = 0
+    for el in trend_calculator_algo:
+        sumeAns+=el
+    avgAns = sumeAns/trend_calculator_algo
+
+    return allTimeAverage-avgAns
+
+
+
+
+
 class Trader:
 
 
@@ -214,6 +252,7 @@ class Trader:
             if product == 'BANANAS':
 
                 global EMA_yesterday_bananas
+                global AllTimesAverage_q
 
                 # global highestBananas_value
                 # global lowestBananas_value
@@ -223,14 +262,19 @@ class Trader:
 
                 # Initialize the list of Orders to be sent as an empty list
                 orders: list[Order] = []
-                best_bid2 = max(order_depth.buy_orders.keys())
-                best_bid_volume2 = order_depth.buy_orders[best_bid2]
-                best_ask2 = min(order_depth.sell_orders.keys())
-                best_ask_volume2 = order_depth.sell_orders[best_ask2]
 
+                best_bid2 = max(order_depth.buy_orders.keys())
+                best_ask2 = min(order_depth.sell_orders.keys())
 
 
                 mid_price = (best_ask2 + best_bid2) / 2
+
+                AllTimesAverage_q.append(average)
+                sumAllTime = 0
+                for el in AllTimesAverage_q:
+                    sumAllTime += el
+                AverageAllTime = sumAllTime/len(AllTimesAverage_q)
+
                 print("midPrice: ", mid_price)
                 bananas_q.append(mid_price)
                 if EMA_yesterday_bananas == 0:
@@ -246,20 +290,8 @@ class Trader:
 
                 average /= len(bananas_q)
 
-
-                # queue_df = pd.DataFrame(bananas_q)
-                #
-                # # compute exponential average using pandas ewm() function
-                # exp_avg = queue_df.ewm(span=10).mean()
-
                 Close_today = mid_price;
-
-
-
                 n = 25
-
-
-
                 average_ema = ema_calc(Close_today,n)
 
                 if len(bananas_q) < 25:
@@ -281,6 +313,7 @@ class Trader:
                     best_ask_volume = order_depth.sell_orders[best_ask]
 
                     bestAsks2 = []
+                    #asta inca nu i folosita
                     for key, value in order_depth.buy_orders.items():
                         if key < acceptable_price:
                             bestAsks2.append((key, value))
@@ -305,6 +338,7 @@ class Trader:
                     best_bid = max(order_depth.buy_orders.keys())
                     best_bid_volume = order_depth.buy_orders[best_bid]
 
+                    #asta inca nu i folosita
                     bestAsks = []
                     for key, value in order_depth.buy_orders.items():
                         if key > acceptable_price:
