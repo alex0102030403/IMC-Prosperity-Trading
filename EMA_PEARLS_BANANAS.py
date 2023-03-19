@@ -32,7 +32,14 @@ maxPearls = 0;
 maxProfitPearls = 0;
 
 Pearls_Owned = 0;
+def ema_calc(close_today , n):
+    global EMA_yesterday_bananas
+    EMA_today = (close_today * (2 / (n + 1))) + (EMA_yesterday_bananas * (1 - (2 / (n + 1))))
+    EMA_yesterday_bananas = EMA_today
+    return EMA_today
 class Trader:
+
+
 
     def run(self, state: TradingState) -> Dict[str, List[Order]]:
         """
@@ -249,12 +256,11 @@ class Trader:
 
 
 
-                n = 13
+                n = 25
 
-                EMA_today = (Close_today * (2 / (n + 1))) + (EMA_yesterday_bananas * (1 - (2 / (n + 1))))
-                EMA_yesterday_bananas = EMA_today
 
-                average_ema = EMA_today
+
+                average_ema = ema_calc(Close_today,n)
 
                 if len(bananas_q) < 25:
                     acceptable_price = average
@@ -274,6 +280,11 @@ class Trader:
                     best_ask = min(order_depth.sell_orders.keys())
                     best_ask_volume = order_depth.sell_orders[best_ask]
 
+                    bestAsks2 = []
+                    for key, value in order_depth.buy_orders.items():
+                        if key < acceptable_price:
+                            bestAsks2.append((key, value))
+
                     # Check if the lowest ask (sell order) is lower than the above defined fair value
                     if best_ask < acceptable_price:
                         # In case the lowest ask is lower than our fair value,
@@ -282,6 +293,7 @@ class Trader:
                         # with the same quantity
                         # We expect this order to trade with the sell order
                         print("BUY", str(acceptable_price - best_ask) + "x", best_ask)
+
                         orders.append(Order(product, best_ask, -best_ask_volume))
 
                 # The below code block is similar to the one above,
@@ -292,8 +304,15 @@ class Trader:
                 if len(order_depth.buy_orders) != 0:
                     best_bid = max(order_depth.buy_orders.keys())
                     best_bid_volume = order_depth.buy_orders[best_bid]
+
+                    bestAsks = []
+                    for key, value in order_depth.buy_orders.items():
+                        if key > acceptable_price:
+                            bestAsks.append((key, value))
+
                     if best_bid > acceptable_price:
                         print("SELL", str(acceptable_price - best_bid) + "x", best_bid)
+
                         orders.append(Order(product, best_bid, -best_bid_volume))
 
                 # Add all the above the orders to the result dict
