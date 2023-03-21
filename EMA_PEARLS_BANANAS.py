@@ -11,7 +11,11 @@ from datamodel import OrderDepth, TradingState, Order
 # MA_POWER = 40 / 100
 # EMA_POWER = 60 / 100
 
-
+EMA25_Banane = 0
+EMA50_Banane = 0
+EMA100_Banane = 0
+EMA5_Banane = 0
+EMA10_Banane = 0
 
 pearls_q = []
 bananas_q = []
@@ -103,6 +107,12 @@ class Trader:
 
                 global Pearls_Owned
 
+                global EMA25_Banane
+                global EMA50_Banane
+                global EMA100_Banane
+                global EMA5_Banane
+                global EMA10_Banane
+
 
 
 
@@ -125,7 +135,7 @@ class Trader:
                 profit = best_bid2 - best_ask2
 
                 mid_price = (best_ask2 + best_bid2) / 2
-                print("midPrice: ", mid_price)
+                #print("midPrice: ", mid_price)
                 pearls_q.append(mid_price)
 
                 if len(pearls_q) > 100:
@@ -153,13 +163,17 @@ class Trader:
                 else:
                     acceptable_price = average_ema
 
+                inventory = state.position.get(product, 0)
+
+                #print("We have : ",inventory, " Pearls")
+
 
 
 
                 # Define a fair value for the PEARLS.
                 # Note that this value of 1 is just a dummy value, you should likely change it!
 
-                print("average is: ", acceptable_price)
+                #print("average is: ", acceptable_price)
 
                 # If statement checks if there are any SELL orders in the PEARLS market
                 if len(order_depth.sell_orders) > 0:
@@ -170,11 +184,11 @@ class Trader:
                     bestAsks = []
                     for key,value in order_depth.sell_orders.items():
                         if key < average:
-                            print("KEY BAGATA: ",key,"VALUE BAGATA: ",value)
+                            #print("KEY BAGATA: ",key,"VALUE BAGATA: ",value)
                             bestAsks.append((key,value))
 
-                    print("This is the lowest ask : ")
-                    print(best_ask)
+                    # print("This is the lowest ask : ")
+                    # print(best_ask)
 
                     best_ask_volume = order_depth.sell_orders[best_ask]
 
@@ -188,12 +202,15 @@ class Trader:
                         # We expect this order to trade with the sell order
                         # print("BUY", str(acceptable_price - best_ask) + "x", best_ask)
                         # print("BUY", best_ask_volume,"x", best_ask)
-                        for key,value in bestAsks:
-                            print("KEY ",key,"VALUE ",value)
 
 
+
                         for key,value in bestAsks:
-                            orders.append(Order(product,key,-value))
+                            if inventory-value > 20:
+                                newVolume = (inventory-value)-20
+                                orders.append(Order(product,key,newVolume))
+                            else:
+                                orders.append(Order(product,key,-value))
                         #
                         #orders.append(Order(product, best_ask, -best_ask_volume))
                         SoltTotal-=best_ask*-best_ask_volume
@@ -223,9 +240,15 @@ class Trader:
                         #print("SELL", str(acceptable_price - best_bid) + "x", best_bid)
                         print("SELL", best_bid, "Biggest Bid")
                         for key,value in bestAsks2:
-                            orders.append(Order(product,key,-value))
+                            if inventory-value < -20:
+                                newVolumeSell = (inventory-value)+20
+                                orders.append(Order(product,key,newVolumeSell))
+                            else:
+                                orders.append(Order(product,key,-value))
+
+
                         SoltTotal+=best_bid*best_bid_volume
-                        print("SOLD: ",SoltTotal)
+
                         #orders.append(Order(product, best_bid,-best_bid_volume))
                         # orders.append(Order(product,highestPearls_value,-best_bid_volume))
 
@@ -268,7 +291,7 @@ class Trader:
 
                 SOS = trend_calculator(mid_price, AverageAllTime)
                 letsSee = trend_calculator(mid_price,AverageAllTime)
-                print("TREND CALCULATOR : ",letsSee)
+                #print("TREND CALCULATOR : ",letsSee)
 
                 #print("midPrice: ", mid_price)
                 bananas_q.append(mid_price)
@@ -289,16 +312,25 @@ class Trader:
 
 
                 average_ema = ema_calc(Close_today, 25)
+                EMA100_Banane = ema_calc(Close_today,100)
+                EMA5_Banane = ema_calc(Close_today,5)
+                EMA50_Banane = ema_calc(Close_today,50)
+                EMA10_Banane = ema_calc(Close_today,10)
+                print(EMA100_Banane, "ASTA II EMA 100 ",EMA5_Banane ,"Asta ii ema 5")
+
 
                 if len(bananas_q) < 15:
                     acceptable_price = average
                 else:
-                    acceptable_price = average_ema
+                    acceptable_price = EMA5_Banane
+                    #acceptable_price = (EMA100_Banane+EMA5_Banane)/2
 
                 # Define a fair value for the PEARLS.
                 # Note that this value of 1 is just a dummy value, you should likely change it!
 
                 #print("average is: ", acceptable_price)
+
+                inventory = state.position.get(product, 0)
 
                 # If statement checks if there are any SELL orders in the PEARLS market
                 if len(order_depth.sell_orders) > 0:
@@ -322,9 +354,13 @@ class Trader:
                         # with the same quantity
                         # We expect this order to trade with the sell order
                         print("BUY", str(acceptable_price - best_ask) + "x", best_ask)
-                        for key, value in bestAsks2:
-                            orders.append(Order(product,key,-value))
-                        #orders.append(Order(product, best_ask, -best_ask_volume))
+                        # for key, value in bestAsks2:
+                        #     orders.append(Order(product,key,-value))
+                        if inventory - best_ask_volume > 20:
+                            newVolumeBanane = (inventory - best_ask_volume)-20
+                            orders.append(Order(product,best_ask,newVolumeBanane))
+                        else:
+                            orders.append(Order(product, best_ask, -best_ask_volume))
 
                 # The below code block is similar to the one above,
                 # the difference is that it find the highest bid (buy order)
@@ -343,12 +379,16 @@ class Trader:
 
                     if best_bid > acceptable_price:
                         print("SELL", str(acceptable_price - best_bid) + "x", best_bid)
-                        print("Average All Time " ,AverageAllTime)
+
                         acCompute = trend_calculator(mid_price,AverageAllTime)
-                        print("Algo Compute", acCompute)
-                        for key,value in bestAsks:
-                            orders.append(Order(product,key,-value))
-                        #orders.append(Order(product, best_bid, -best_bid_volume))
+                        #print("Algo Compute", acCompute)
+                        # for key,value in bestAsks:
+                        #     orders.append(Order(product,key,-value))
+                        if inventory - best_bid_volume < -20:
+                            newVolumeSell = (inventory - best_bid_volume) + 20
+                            orders.append(Order(product,best_bid,newVolumeSell))
+                        else:
+                            orders.append(Order(product, best_bid, -best_bid_volume))
 
                 # Add all the above the orders to the result dict
                 result[product] = orders
