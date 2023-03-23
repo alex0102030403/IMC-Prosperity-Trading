@@ -1,9 +1,26 @@
 from typing import Dict, List
 from datamodel import OrderDepth, TradingState, Order
+import numpy as np
+import pandas as pd
+
+Last_Short = 0
+Last_Upwards = 0
+
+Shortam = 0
+Upwards = 0
 
 pearls_q = []
 bananas_q = []
 coconuts_q = []
+
+EMA_20_Colada_yesterday = []
+EMA_20_Colada_today = 0
+
+EMA_100_Colada_yesterday = []
+EMA_100_Colada_today = 0
+
+Signals_Colada = []
+
 
 EMA_yesterday_coconuts = 0
 
@@ -21,8 +38,17 @@ best_ever_banana_deal_spread = 0.001
 
 def ema_calc(close_today, n):
     global EMA_yesterday_bananas
+
     EMA_today = (close_today * (2 / (n + 1))) + (EMA_yesterday_bananas * (1 - (2 / (n + 1))))
     EMA_yesterday_bananas = EMA_today
+    return EMA_today
+
+
+def ema_calc_colada(close_today, n):
+    global EMA_yesterday_coconuts
+
+    EMA_today = (close_today * (2 / (n + 1))) + (EMA_yesterday_coconuts * (1 - (2 / (n + 1))))
+    EMA_yesterday_coconuts = EMA_today
     return EMA_today
 
 
@@ -67,10 +93,10 @@ class Trader:
 
                 best_bid = max(order_depth.buy_orders.keys())
                 best_ask = min(order_depth.sell_orders.keys())
-                print("bb ", best_bid, "ba", best_ask)
+                #print("bb ", best_bid, "ba", best_ask)
 
                 mid_price = (best_ask + best_bid) / 2
-                print("midPrice: ", mid_price)
+                #print("midPrice: ", mid_price)
                 pearls_q.append(mid_price)
                 if len(pearls_q) > 100:
                     pearls_q.pop()
@@ -81,7 +107,7 @@ class Trader:
                 average /= len(pearls_q)
                 # Define a fair value for the PEARLS.
                 acceptable_price = int(average)
-                print("fair price (average): ", acceptable_price)
+                #print("fair price (average): ", acceptable_price)
                 position = state.position.get(product, 0)
 
                 # If statement checks if there are any SELL orders in the PEARLS market
@@ -193,7 +219,7 @@ class Trader:
                             if price - acceptable_price > best_ever_banana_deal_spread:
                                 best_ever_banana_deal_spread = price - acceptable_price
                     bids_higher_than_acceptable_price.sort(reverse=True)
-                    print("best_ever_banana_deal_spread: ", best_ever_banana_deal_spread)
+                    #print("best_ever_banana_deal_spread: ", best_ever_banana_deal_spread)
                     theoretical_max_position = min(
                         20 / (best_ever_banana_deal_spread / 4) * (best_bid - acceptable_price), 20)
 
@@ -212,9 +238,22 @@ class Trader:
                 global EMA_yesterday_coconuts
                 global AllTimesAverage_q
 
+                global Signals_Colada
+
+                global EMA_20_Colada_yesterday
+                global EMA_20_Colada_today
+
+                global EMA_100_Colada_yesterday
+                global EMA_100_Colada_today
+
 
                 global coconuts_q
 
+                global Last_Short
+                global Last_Upwards
+
+                global Shortam
+                global Upwards
                 # global highestBananas_value
                 # global lowestBananas_value
 
@@ -253,9 +292,93 @@ class Trader:
 
                 Close_today = mid_price
 
-                average_ema = ema_calc(Close_today, 25)
+                average_ema = ema_calc_colada(Close_today, 25)
 
                 acceptable_price = average_ema
+
+                EMA_20_Colada_yesterday.append(ema_calc_colada(Close_today,20))
+                EMA_100_Colada_yesterday.append(ema_calc_colada(Close_today,100))
+
+
+                if ema_calc_colada(Close_today,20) > ema_calc_colada(Close_today,50):
+                    Signals_Colada.append(1)
+
+                else:
+                    Signals_Colada.append(-1)
+
+
+                Shortam = 0
+                Upwards = 0
+
+
+                # for i , element in enumerate(Signals_Colada):
+                #     if len(Signals_Colada) > 1:
+                #         next_element = Signals_Colada[i+1] if i < len(Signals_Colada)-1 else None
+                #         # print("Curent element ",element)
+                #         # print("Next element ", next_element)
+                #         if element == -1 and next_element == 1:
+                #
+                #             Upwards = 1
+                #         elif element == 1 and next_element == -1:
+                #             Shortam = -1
+
+                if(len(Signals_Colada)>2):
+                    if(Signals_Colada[len(Signals_Colada)-2] == -1 and Signals_Colada[len(Signals_Colada)-1] == 1):
+                        Upwards = 1
+                    elif(Signals_Colada[len(Signals_Colada)-2] == 1 and Signals_Colada[len(Signals_Colada)-1] == -1):
+                        Shortam = -1
+
+                print("SHORTU LOCAL--  ",Shortam,"UPU LOCAL--  ",Upwards)
+
+                if(Upwards == 1 and Shortam == 0):
+                    Last_Upwards = 1
+                    Last_Short = 0
+
+                if(Upwards == 0 and Shortam == -1):
+                    Last_Short = -1
+                    Last_Upwards = 0
+
+
+
+
+
+
+
+                # if(Shortam == 0 and Upwards == 1 and Last_Upwards ==1 and Last_Short == 0):
+                #     Last_Upwards = 1
+                #
+                # if (Shortam == -1 and Upwards == 0 and Last_Upwards == 0 and Last_Short == -1):
+                #     Last_Short = -1
+                #
+                # if (Shortam == -1 and Upwards == 0 and Last_Upwards == 1 and Last_Short == 0):
+                #     Last_Short = -1
+
+
+
+                # if(Last_Short == -1 and Shortam == 0):
+                #     Last_Short = 0
+                # elif(Last_Short == 0 and Shortam == -1):
+                #     Last_Short = -1
+                # elif(Last_Short == -1 and Shortam == -1):
+                #     Last_Short = -1
+                #
+                #
+                # if(Last_Upwards == 1 and Upwards == 0):
+                #     Last_Upwards = 0
+                # elif(Last_Upwards == 0 and Upwards ==1):
+                #     Last_Upwards = 1
+                # elif(Last_Upwards == 1 and Upwards ==1):
+                #     Last_Upwards = 1
+
+
+
+
+
+
+
+
+                print(Last_Short, "  -LAST SHORT-  ",Last_Upwards,"  -LAST UP-  ")
+
 
 
                 # If statement checks if there are any SELL orders in the PEARLS market
@@ -273,14 +396,18 @@ class Trader:
                             bestAsks2.append((key, value))
 
                     # Check if the lowest ask (sell order) is lower than the above defined fair value
-                    if best_ask < acceptable_price:
+                    if best_ask < acceptable_price and Last_Short == -1:
+                        orders.append(Order(product, best_ask, -best_ask_volume))
                         # In case the lowest ask is lower than our fair value,
                         # This presents an opportunity for us to buy cheaply
                         # The code below therefore sends a BUY order at the price level of the ask,
                         # with the same quantity
                         # We expect this order to trade with the sell order
                         print("BUY", str(acceptable_price - best_ask) + "x", best_ask)
-                        for key,value in bestAsks2:
+                        # for key,value in bestAsks2:
+                        #     orders.append(Order(product, key, -value))
+                    elif best_ask < acceptable_price and Last_Upwards == 1:
+                        for key, value in bestAsks2:
                             orders.append(Order(product, key, -value))
 
                 # The below code block is similar to the one above,
@@ -298,7 +425,7 @@ class Trader:
                         if key > acceptable_price:
                             bestAsks.append((key, value))
 
-                    if best_bid > acceptable_price:
+                    if best_bid > acceptable_price and Last_Short == -1:
                         print("SELL", str(acceptable_price - best_bid) + "x", best_bid)
 
                         # acCompute = trend_calculator(mid_price, AverageAllTime)
@@ -308,6 +435,10 @@ class Trader:
                             orders.append(Order(product,key,-value))
 
                         #orders.append(Order(product, best_bid, -best_bid_volume))
+                    elif best_bid > acceptable_price and Last_Upwards == 1:
+                        print("SELL", str(acceptable_price - best_bid) + "x", best_bid)
+                        orders.append(Order(product,best_bid,-best_bid_volume))
+
 
                 # Add all the above the orders to the result dict
                 result[product] = orders
